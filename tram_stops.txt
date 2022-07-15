@@ -1,0 +1,100 @@
+1,Teatr Bagatela,20,-70
+2,Stary Kleparz,80,-110
+3,Teatr Słowackiego,200,-120
+4,Poczta Główna,230,-50
+5,Politechnika,200,-250
+6,Dworzec Główny Zachód,200,-200
+7,Starowiślna,300,0
+8,Lubicz,300,-150
+9,Rondo Mogilskie,370,-150
+10,Batorego,-40,-70
+11,Plac Inwalidów,-100,-100
+12,Plac Wszystkich Świętych,130,0
+13,Filharmonia,50,-40
+14,Jubilat,-30,50
+15,Rondo Grzegórzeckie,500,-150
+16,Urzędnicza,-130,-150
+17,Biprostal,-200,-150
+18,Cystersów,400,-190
+19,Białucha,420,-220
+20,TAURON Arena Kraków,450,-250
+21,Św. Gertrudy,200,50
+22,Wawel,200,100
+23,Stradom,250,120
+24,Plac Wolnica,270,170
+25,Korona,340,200
+26,Smolki,350,240
+27,Rondo Matecznego,370,270
+28,Rzemieślnicza,400,300
+29,Łagiewniki,450,340
+30,Krowodrza Górka,0,-370
+31,Szpital Narutowicza,50,-300
+32,Dworzec Towarowy,100,-240
+33,Nowy Kleparz,80,-200
+34,Pędzichów,100,-170
+35,Orzeszkowej,170,200
+36,Rondo Grundwaldzkie,150,250
+37,Szwedzka,120,300
+38,Kapelanka,80,270
+39,Słomiana,0,330
+40,Kobierzyńska,-50,300
+41,Lipińskiego,-50,250
+42,Grota-Roweckiego,-100,200
+43,Norymberska,-130,170
+44,Ruczaj,-190,200
+45,Kampus UJ,-220,250
+46,Chmieleniec,-270,300
+47,Czerwone Maki,-300,350
+48,Bratysławska,30,-330
+49,Komorowskiego,-70,100
+50,Salwator,-130,120
+51,Uniwersytet Pedagogiczny,-220,-200
+52,Głowackiego,-280,-230
+53,Bronowice,-300,-270
+54,Wesele,-350,-300
+55,Bronowice SKA,-400,-330
+56,Bronowice Małe,-480,-350
+57,Muzeum Lotnictwa,490,-280
+58,AWF,540,-290
+59,Stella-Sawickiego,580,-300
+60,Czyżyny,530,-330
+61,Rondo Czyżyńskie,500,-360
+62,Miodowa,330,30
+63,Św. Wawrzyńca,370,50
+64,Plac Bohaterów Getta,400,100
+65,Limanowskiego,430,140
+66,Podgórze SKA,450,190
+67,Cmentarz Podgórski,470,230
+68,Dworcowa,500,270
+69,Kabel,560,260
+70,Bieżanowska,600,250
+71,Wlotowa,650,220
+72,Prokocim,670,180
+73,Prokocim Szpital,700,130
+74,Teligi,730,90
+75,Nowy Prokocim,750,50
+76,Ćwiklińskiej,800,20
+77,Nowy Bieżanów,850,-30
+78,Dauna,650,280
+79,Piaski Nowe,700,270
+80,Nowosądecka,740,300
+81,Witosa,820,300
+82,Kurdwanów,850,330
+83,Uniwersytet Jagielloński,-20,-20
+84,Muzeum Narodowe,-120,0
+85,Oleandry,-190,50
+86,Park Jordana,-250,100
+87,Reymana,-300,150
+88,Cichy Kącik,-350,200
+89,Zabłocie,550,-110
+90,Klimeckiego,600,-80
+91,Kuklińskiego,650,-40
+92,Gromadzka,700,-90
+93,Lipska,750,-150
+94,Rzebika,800,-200
+95,Mały Płaszów,850,-230
+96,Teatr Variete,570,-170
+97,Francesco Nullo,630,-230
+98,Fabryczna,680,-270
+99,Ofiar Dąbia,720,-300
+100,Dąbie,750,-330
